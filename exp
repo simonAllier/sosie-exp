@@ -1,13 +1,10 @@
-configurationFiles/commons-collections/issta.properties OK
-configurationFiles/commons-lang/issta.properties OK
-configurationFiles/commons-collections/issta.properties OK
-configurationFiles/commons-lang/issta.properties OK
-configurationFiles/commons-collections/issta.properties OK
-configurationFiles/commons-lang/issta.properties
-configurationFiles/commons-collections/issta.properties
-configurationFiles/commons-lang/issta.properties
-configurationFiles/commons-collections/issta.properties
-configurationFiles/commons-lang/issta.properties
-configurationFiles/commons-collections/issta.properties
-configurationFiles/commons-lang/issta.properties
-
+configurationFiles/metrics/issta.properties
+configurationFiles/easymock/issta.properties
+configurationFiles/metrics/issta.properties
+configurationFiles/easymock/issta.properties
+configurationFiles/metrics/issta.properties
+configurationFiles/easymock/issta.properties
+configurationFiles/metrics/issta.properties
+configurationFiles/easymock/issta.properties
+configurationFiles/metrics/issta.properties
+configurationFiles/easymock/issta.properties
