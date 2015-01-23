@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":48,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.collections4.trie.AbstractPatriciaTrie:140","type":"CtInvocationImpl","sourcecode":"org.apache.commons.collections4.trie.AbstractPatriciaTrie<K, V>.incrementSize()"},"status":0}}
