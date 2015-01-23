@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":49,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.collections4.iterators.EntrySetMapIterator:110","type":"CtThrowImpl","sourcecode":"throw new java.lang.IllegalStateException(\"Iterator getKey() can only be called after next() and before remove()\")"},"status":0}}
