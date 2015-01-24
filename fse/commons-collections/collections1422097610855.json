@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":44,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.collections4.ComparatorUtils:216","type":"CtIfImpl","sourcecode":"if (java.util.Comparator<E> == null) {\n    java.util.Comparator<E> = org.apache.commons.collections4.ComparatorUtils.java.util.Comparator;\n} "},"status":0}}
