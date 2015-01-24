@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":50,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.collections4.iterators.IteratorChain:147","type":"CtInvocationImpl","sourcecode":"org.apache.commons.collections4.iterators.IteratorChain<E>.addIterator(java.util.Iterator<? extends E>)"},"status":0}}
