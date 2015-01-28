@@ -1,1 +1,0 @@
-{"testDiff":[],"transformation":{"failures":[],"tindex":47,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.collections4.trie.AbstractPatriciaTrie:1416","type":"CtIfImpl","sourcecode":"if ((java.lang.Object instanceof java.util.Map.Entry) == false) {\n    return false;\n} "},"status":0}}

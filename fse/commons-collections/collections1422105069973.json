@@ -1,1 +1,0 @@
-{"testDiff":[],"transformation":{"failures":[],"tindex":50,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.collections4.list.TreeList:599","type":"CtInvocationImpl","sourcecode":"org.apache.commons.collections4.list.TreeList.AVLNode<E>.recalcHeight()"},"status":0}}

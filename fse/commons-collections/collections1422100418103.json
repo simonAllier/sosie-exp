@@ -1,1 +1,0 @@
-{"testDiff":[],"transformation":{"failures":[],"tindex":48,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.collections4.iterators.IteratorChain:161","type":"CtIfImpl","sourcecode":"if (java.util.Iterator<? extends E> == null) {\n    throw new java.lang.NullPointerException(\"Iterator must not be null\");\n} "},"status":0}}
