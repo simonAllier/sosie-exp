@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":35,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.collections4.map.LRUMap:129","type":"CtThrowImpl","sourcecode":"throw new java.lang.IllegalArgumentException(\"LRUMap max size must be greater than 0\")"},"status":0}}
