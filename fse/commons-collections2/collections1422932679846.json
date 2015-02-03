@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":18,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.collections4.trie.KeyAnalyzer:140","type":"CtUnaryOperatorImpl","sourcecode":"-1"},"status":0}}
