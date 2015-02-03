@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":19,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.collections4.trie.AbstractPatriciaTrie:1197","type":"CtThrowImpl","sourcecode":"throw new java.lang.IllegalArgumentException(\"must have come from somewhere!\")"},"status":0}}
