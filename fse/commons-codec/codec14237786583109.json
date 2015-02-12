@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":49,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.digest.Sha2Crypt:501","type":"CtInvocationImpl","sourcecode":"java.security.MessageDigest.reset()"},"status":0}}
