@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":49,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.binary.Base32:519","type":"CtInvocationImpl","sourcecode":"java.lang.System.java.lang.System.arraycopy(byte[], 0, byte[], org.apache.commons.codec.binary.BaseNCodec.Context.int, byte[].int)"},"status":0}}
