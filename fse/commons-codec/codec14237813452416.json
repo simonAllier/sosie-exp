@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":49,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.Charsets:87","type":"CtInvocationImpl","sourcecode":"java.nio.charset.Charset.java.nio.charset.Charset.forName(java.lang.String)"},"status":0}}
