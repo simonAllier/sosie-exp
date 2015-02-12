@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":25,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.Metaphone:390","type":"CtThrowImpl","sourcecode":"throw new org.apache.commons.codec.EncoderException(\"Parameter supplied to Metaphone encode is not of type java.lang.String\")"},"status":0}}
