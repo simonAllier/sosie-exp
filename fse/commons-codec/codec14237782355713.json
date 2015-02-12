@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":44,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.binary.Base32:291","type":"CtIfImpl","sourcecode":"if (byte[] == null) {\n    throw new java.lang.IllegalArgumentException(((\"lineLength \" + int) + \" > 0, but lineSeparator is null\"));\n} "},"status":0}}
