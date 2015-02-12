@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":41,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.bm.Rule:384","type":"CtThrowImpl","sourcecode":"throw new java.lang.IllegalArgumentException(\"Phoneme starts with \\'(\\' so must end with \\')\\'\")"},"status":0}}
