@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":25,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.binary.Base32:397","type":"CtAssignmentImpl","sourcecode":"org.apache.commons.codec.binary.BaseNCodec.Context.long = (org.apache.commons.codec.binary.BaseNCodec.Context.long) >> 6"},"status":0}}
