@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":6,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.digest.HmacUtils:185","type":"CtLocalVariableImpl","sourcecode":"final java.security.NoSuchAlgorithmException java.security.NoSuchAlgorithmException"},"status":0}}
