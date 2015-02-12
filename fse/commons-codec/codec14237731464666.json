@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":43,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.net.BCodec:143","type":"CtLocalVariableImpl","sourcecode":"final java.io.UnsupportedEncodingException java.io.UnsupportedEncodingException"},"status":0}}
