@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":6,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.bm.PhoneticEngine:460","type":"CtInvocationImpl","sourcecode":"java.lang.StringBuilder.append(\"-\")"},"status":0}}
