@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":30,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.StringEncoderComparator:85","type":"CtLocalVariableImpl","sourcecode":"final org.apache.commons.codec.EncoderException org.apache.commons.codec.EncoderException"},"status":0}}
