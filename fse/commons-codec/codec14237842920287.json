@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":31,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.DaitchMokotoffSoundex:517","type":"CtInvocationImpl","sourcecode":"java.util.List<org.apache.commons.codec.language.DaitchMokotoffSoundex.Branch>.clear()"},"status":0}}

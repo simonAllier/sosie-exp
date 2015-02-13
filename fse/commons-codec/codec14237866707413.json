@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":27,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.bm.PhoneticEngine:447","type":"CtThrowImpl","sourcecode":"throw new java.lang.IllegalStateException((\"Unreachable case: \" + (this.org.apache.commons.codec.language.bm.NameType)))"},"status":0}}
