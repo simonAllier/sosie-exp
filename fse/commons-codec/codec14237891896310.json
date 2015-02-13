@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":2,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.bm.Rule:437","type":"CtThrowImpl","sourcecode":"throw new java.lang.IllegalArgumentException((((\"Malformed import statement \\'\" + java.lang.String) + \"\\' in \") + java.lang.String))"},"status":0}}
