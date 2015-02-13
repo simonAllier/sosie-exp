@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":5,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.binary.BaseNCodecInputStream:181","type":"CtThrowImpl","sourcecode":"throw new java.io.IOException(\"mark/reset not supported\")"},"status":0}}
