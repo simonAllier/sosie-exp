@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":44,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.Soundex:276","type":"CtUnaryOperatorImpl","sourcecode":"int++"},"status":0}}
