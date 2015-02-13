@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":31,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.net.QuotedPrintableCodec:106","type":"CtInvocationImpl","sourcecode":"org.apache.commons.codec.net.QuotedPrintableCodec.java.util.BitSet.set(org.apache.commons.codec.net.QuotedPrintableCodec.byte)"},"status":0}}
