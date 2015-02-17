@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":17,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.net.QuotedPrintableCodec:368","type":"CtLocalVariableImpl","sourcecode":"final java.lang.ArrayIndexOutOfBoundsException java.lang.ArrayIndexOutOfBoundsException"},"status":0}}
