@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":11,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.RefinedSoundex:135","type":"CtThrowImpl","sourcecode":"throw new org.apache.commons.codec.EncoderException(\"Parameter supplied to RefinedSoundex encode is not of type java.lang.String\")"},"status":0}}
