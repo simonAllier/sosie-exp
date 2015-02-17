@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":26,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.net.QCodec:154","type":"CtIfImpl","sourcecode":"if (byte[] == null) {\n    return null;\n} "},"status":0}}
