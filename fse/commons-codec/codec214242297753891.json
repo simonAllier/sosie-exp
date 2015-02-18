@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":6,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.binary.Base64:735","type":"CtIfImpl","sourcecode":"if (java.math.BigInteger == null) {\n    throw new java.lang.NullPointerException(\"encodeInteger called with null parameter\");\n} "},"status":0}}
