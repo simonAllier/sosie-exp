@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":15,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.digest.HmacUtils:187","type":"CtLocalVariableImpl","sourcecode":"final java.security.InvalidKeyException java.security.InvalidKeyException"},"status":0}}
