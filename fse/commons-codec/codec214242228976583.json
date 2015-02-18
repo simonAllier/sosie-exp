@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":22,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.bm.Languages:64","type":"CtInvocationImpl","sourcecode":"java.util.Set<java.lang.String>.isEmpty()"},"status":0}}

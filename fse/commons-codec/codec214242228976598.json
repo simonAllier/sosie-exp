@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":42,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.bm.PhoneticEngine:207","type":"CtAssignmentImpl","sourcecode":"this.boolean = false"},"status":0}}
