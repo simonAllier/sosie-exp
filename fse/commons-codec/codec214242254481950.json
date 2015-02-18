@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":9,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.MatchRatingApproachEncoder:142","type":"CtAssignmentImpl","sourcecode":"java.lang.String = org.apache.commons.codec.language.MatchRatingApproachEncoder.getFirst3Last3(java.lang.String)"},"status":0}}
