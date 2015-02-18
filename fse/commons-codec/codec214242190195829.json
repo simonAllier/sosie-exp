@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":48,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.Nysiis:212","type":"CtThrowImpl","sourcecode":"throw new org.apache.commons.codec.EncoderException(\"Parameter supplied to Nysiis encode is not of type java.lang.String\")"},"status":0}}
