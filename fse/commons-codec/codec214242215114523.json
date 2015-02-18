@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":16,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.binary.Hex:253","type":"CtLocalVariableImpl","sourcecode":"final java.lang.ClassCastException java.lang.ClassCastException"},"status":0}}
