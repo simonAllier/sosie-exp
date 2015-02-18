@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":44,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.Caverphone2:82","type":"CtAssignmentImpl","sourcecode":"java.lang.String = java.lang.String.replaceAll(\"dg\", \"2g\")"},"status":0}}
