@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":2,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.bm.Rule:700","type":"CtThrowImpl","sourcecode":"throw new java.lang.IndexOutOfBoundsException(\"Can not match pattern at negative indexes\")"},"status":0}}
