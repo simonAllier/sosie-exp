@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":22,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.bm.Rule:303","type":"CtInvocationImpl","sourcecode":"java.util.List<org.apache.commons.codec.language.bm.Rule>.addAll(java.util.List<org.apache.commons.codec.language.bm.Rule>)"},"status":0}}
