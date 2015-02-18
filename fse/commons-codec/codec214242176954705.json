@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":47,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.Caverphone1:91","type":"CtAssignmentImpl","sourcecode":"java.lang.String = java.lang.String.replaceAll(\"g\", \"k\")"},"status":0}}
