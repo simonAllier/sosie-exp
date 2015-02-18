@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":16,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.bm.PhoneticEngine:260","type":"CtIfImpl","sourcecode":"if (java.util.Iterator<java.lang.String>.hasNext()) {\n    java.lang.StringBuilder.append(java.util.Iterator<java.lang.String>.next());\n} "},"status":0}}
