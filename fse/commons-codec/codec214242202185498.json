@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":37,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.net.RFC1522Codec:144","type":"CtIfImpl","sourcecode":"if (int == int) {\n    throw new org.apache.commons.codec.DecoderException(\"RFC 1522 violation: encoding token not found\");\n} "},"status":0}}
