@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":12,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.digest.Sha2Crypt:341","type":"CtOperatorAssignmentImpl","sourcecode":"int += int"},"status":0}}
