@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":13,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.digest.HmacUtils:742","type":"CtInvocationImpl","sourcecode":"javax.crypto.Mac.reset()"},"status":0}}
