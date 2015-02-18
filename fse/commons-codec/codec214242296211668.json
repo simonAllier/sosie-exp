@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":48,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.binary.BaseNCodecInputStream:98","type":"CtWhileImpl","sourcecode":"while (int == 0) {\n    int = org.apache.commons.codec.binary.BaseNCodecInputStream.read(byte[], 0, 1);\n}"},"status":0}}
