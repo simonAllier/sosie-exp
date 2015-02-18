@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":12,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.digest.HmacUtils:528","type":"CtInvocationImpl","sourcecode":"org.apache.commons.codec.digest.HmacUtils.org.apache.commons.codec.digest.HmacUtils.getHmacSha384(byte[])"},"status":0}}
