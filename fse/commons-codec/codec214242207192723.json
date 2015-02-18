@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":15,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.Caverphone1:82","type":"CtAssignmentImpl","sourcecode":"java.lang.String = java.lang.String.replaceAll(\"ph\", \"fh\")"},"status":0}}
