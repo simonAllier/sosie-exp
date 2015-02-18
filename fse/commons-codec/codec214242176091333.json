@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":12,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.Caverphone2:65","type":"CtAssignmentImpl","sourcecode":"java.lang.String = java.lang.String.replaceAll(\"^trough\", \"trou2f\")"},"status":0}}

@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":45,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.binary.Base32:309","type":"CtThrowImpl","sourcecode":"throw new java.lang.IllegalArgumentException(\"pad must not be in alphabet or whitespace\")"},"status":0}}
