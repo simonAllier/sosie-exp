@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":20,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.ColognePhonetic:261","type":"CtInvocationImpl","sourcecode":"java.lang.System.java.lang.System.arraycopy(char[], (((char[].int) - (this.int)) + int), char[], 0, int)"},"status":0}}
