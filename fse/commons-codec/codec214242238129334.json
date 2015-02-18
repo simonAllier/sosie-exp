@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":38,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.DaitchMokotoffSoundex:380","type":"CtIfImpl","sourcecode":"if (java.lang.Character.java.lang.Character.isWhitespace(char)) {\n    continue;\n} "},"status":0}}
