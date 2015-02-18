@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":23,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.bm.Lang:92","type":"CtInvocationImpl","sourcecode":"this.java.util.regex.Pattern.matcher(java.lang.String)"},"status":0}}

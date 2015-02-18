@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":14,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.Metaphone:126","type":"CtIfImpl","sourcecode":"if ((char[][1]) == 'R') {\n    java.lang.StringBuilder.append(char[], 1, ((char[].int) - 1));\n    break;\n} "},"status":0}}
