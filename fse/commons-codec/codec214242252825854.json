@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":48,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.Metaphone:327","type":"CtBreakImpl","sourcecode":"break"},"status":0}}
