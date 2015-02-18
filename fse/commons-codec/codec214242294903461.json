@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":17,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.bm.Rule:269","type":"CtThrowImpl","sourcecode":"throw new java.lang.IllegalArgumentException((\"Unable to load resource: \" + java.lang.String))"},"status":0}}
