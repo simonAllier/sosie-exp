@@ -1,0 +1,1 @@
+{"testDiff":[],"transformation":{"failures":[],"tindex":14,"series":0,"name":"delete","type":"adrStmt","transplantationPoint":{"position":"org.apache.commons.codec.language.ColognePhonetic:266","type":"CtInvocationImpl","sourcecode":"org.apache.commons.codec.language.ColognePhonetic.CologneInputBuffer.getNextPos()"},"status":0}}
