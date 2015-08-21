@@ -1,120 +1,200 @@
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties OK
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
-configurationFiles/graphhopper/compare.properties
+
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-collections/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-codec/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-io/compare2.properties
+configurationFiles/commons-lang/compare2.properties
+configurationFiles/gson/compare2.properties
+
