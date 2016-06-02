@@ -1,45 +1,48 @@
-configurationFiles/commons-lang/return.properties OK
-configurationFiles/commons-lang/hashcode.properties OK
-configurationFiles/commons-codec/return.properties OK
-configurationFiles/commons-codec/hashcode.properties OK
-configurationFiles/commons-codec/hashcode.properties OK
-configurationFiles/commons-lang/return.properties OK
-configurationFiles/commons-lang/hashcode.properties OK
-configurationFiles/commons-codec/return.properties OK
-configurationFiles/commons-codec/hashcode.properties OK
-configurationFiles/commons-codec/hashcode.properties OK
-configurationFiles/commons-lang/return.properties OK
-configurationFiles/commons-lang/hashcode.properties OK
-configurationFiles/commons-codec/return.properties OK
-configurationFiles/commons-codec/hashcode.properties OK
-configurationFiles/commons-codec/hashcode.properties OK
-configurationFiles/commons-lang/return.properties OK
-configurationFiles/commons-lang/hashcode.properties OK
-configurationFiles/commons-codec/return.properties OK
-configurationFiles/commons-codec/hashcode.properties OK
-configurationFiles/commons-codec/hashcode.properties OK
-configurationFiles/commons-lang/return.properties OK
-configurationFiles/commons-lang/hashcode.properties OK
-configurationFiles/commons-codec/return.properties OK
-configurationFiles/commons-codec/hashcode.properties OK
-configurationFiles/commons-codec/hashcode.properties OK
-configurationFiles/commons-lang/return.properties OK
-configurationFiles/commons-lang/hashcode.properties OK
-configurationFiles/commons-codec/return.properties OK
-configurationFiles/commons-codec/hashcode.properties OK
-configurationFiles/commons-codec/hashcode.properties OK
-configurationFiles/commons-lang/return.properties OK
-configurationFiles/commons-lang/hashcode.properties
-configurationFiles/commons-codec/return.properties
-configurationFiles/commons-codec/hashcode.properties
-configurationFiles/commons-codec/hashcode.properties
-configurationFiles/commons-lang/return.properties
-configurationFiles/commons-lang/hashcode.properties
-configurationFiles/commons-codec/return.properties
-configurationFiles/commons-codec/hashcode.properties
-configurationFiles/commons-codec/hashcode.properties
-configurationFiles/commons-lang/return.properties
-configurationFiles/commons-lang/hashcode.properties
-configurationFiles/commons-codec/return.properties
-configurationFiles/commons-codec/hashcode.properties
-configurationFiles/commons-codec/hashcode.properties
+configurationFiles/special-grid5000/hashcode-collections.properties
+configurationFiles/special-grid5000/hashcode-gson.properties
+configurationFiles/special-grid5000/hashcode-io.properties
+configurationFiles/special-grid5000/hashcode-jgit.properties
+configurationFiles/special-grid5000/return-collections.properties
+configurationFiles/special-grid5000/return-gson.properties
+configurationFiles/special-grid5000/return-io.properties
+configurationFiles/special-grid5000/return-jgit.properties
+configurationFiles/special-grid5000/hashcode-collections.properties
+configurationFiles/special-grid5000/hashcode-gson.properties
+configurationFiles/special-grid5000/hashcode-io.properties
+configurationFiles/special-grid5000/hashcode-jgit.properties
+configurationFiles/special-grid5000/return-collections.properties
+configurationFiles/special-grid5000/return-gson.properties
+configurationFiles/special-grid5000/return-io.properties
+configurationFiles/special-grid5000/return-jgit.properties
+configurationFiles/special-grid5000/hashcode-collections.properties
+configurationFiles/special-grid5000/hashcode-gson.properties
+configurationFiles/special-grid5000/hashcode-io.properties
+configurationFiles/special-grid5000/hashcode-jgit.properties
+configurationFiles/special-grid5000/return-collections.properties
+configurationFiles/special-grid5000/return-gson.properties
+configurationFiles/special-grid5000/return-io.properties
+configurationFiles/special-grid5000/return-jgit.properties
+configurationFiles/special-grid5000/hashcode-collections.properties
+configurationFiles/special-grid5000/hashcode-gson.properties
+configurationFiles/special-grid5000/hashcode-io.properties
+configurationFiles/special-grid5000/hashcode-jgit.properties
+configurationFiles/special-grid5000/return-collections.properties
+configurationFiles/special-grid5000/return-gson.properties
+configurationFiles/special-grid5000/return-io.properties
+configurationFiles/special-grid5000/return-jgit.properties
+configurationFiles/special-grid5000/hashcode-collections.properties
+configurationFiles/special-grid5000/hashcode-gson.properties
+configurationFiles/special-grid5000/hashcode-io.properties
+configurationFiles/special-grid5000/hashcode-jgit.properties
+configurationFiles/special-grid5000/return-collections.properties
+configurationFiles/special-grid5000/return-gson.properties
+configurationFiles/special-grid5000/return-io.properties
+configurationFiles/special-grid5000/return-jgit.properties
+configurationFiles/special-grid5000/hashcode-collections.properties
+configurationFiles/special-grid5000/hashcode-gson.properties
+configurationFiles/special-grid5000/hashcode-io.properties
+configurationFiles/special-grid5000/hashcode-jgit.properties
+configurationFiles/special-grid5000/return-collections.properties
+configurationFiles/special-grid5000/return-gson.properties
+configurationFiles/special-grid5000/return-io.properties
+configurationFiles/special-grid5000/return-jgit.properties
