@@ -7,7 +7,7 @@ configurationFiles/special-grid5000/return-gson.properties OK
 configurationFiles/special-grid5000/return-io.properties OK
 configurationFiles/special-grid5000/return-jgit.properties OK
 configurationFiles/special-grid5000/hashcode-collections.properties OK
-configurationFiles/special-grid5000/hashcode-gson.properties
+configurationFiles/special-grid5000/hashcode-gson.properties OK
 configurationFiles/special-grid5000/hashcode-io.properties
 configurationFiles/special-grid5000/hashcode-jgit.properties
 configurationFiles/special-grid5000/return-collections.properties
