@@ -30,7 +30,7 @@ configurationFiles/special-grid5000/addParameterCondition2-io.properties OK
 configurationFiles/special-grid5000/addParameterCondition2-lang.properties OK
 configurationFiles/special-grid5000/return-codec.properties OK
 configurationFiles/special-grid5000/return-collections.properties OK
-configurationFiles/special-grid5000/return-gson.properties
+configurationFiles/special-grid5000/return-gson.properties OK
 configurationFiles/special-grid5000/return-io.properties
 configurationFiles/special-grid5000/return-lang.properties
 configurationFiles/special-grid5000/return2-codec.properties
