@@ -1,6 +1,6 @@
 configurationFiles/commons-io/withFailure.properties OK
 configurationFiles/commons-lang/withFailure.properties OK
-configurationFiles/commons-codec/withFailure.properties
+configurationFiles/commons-codec/withFailure.properties OK
 configurationFiles/commons-collections/withFailure.properties
 configurationFiles/gson/withFailure.properties
 configurationFiles/commons-io/withFailure.properties
